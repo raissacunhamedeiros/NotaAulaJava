@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NotaAula01/NotaAula01.iml" filepath="$PROJECT_DIR$/NotaAula01/NotaAula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAula02/NotaAula02.iml" filepath="$PROJECT_DIR$/NotaAula02/NotaAula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAula03/NotaAula03.iml" filepath="$PROJECT_DIR$/NotaAula03/NotaAula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NotaAulaJava.iml" filepath="$PROJECT_DIR$/.idea/NotaAulaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAula01/Questao01/Questao01.iml" filepath="$PROJECT_DIR$/NotaAula01/Questao01/Questao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAula03/Questao01_aula03/Questao01_aula03.iml" filepath="$PROJECT_DIR$/NotaAula03/Questao01_aula03/Questao01_aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAula01/Questao02/Questao02.iml" filepath="$PROJECT_DIR$/NotaAula01/Questao02/Questao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAula03/Questao02_Aula03/Questao02_Aula03.iml" filepath="$PROJECT_DIR$/NotaAula03/Questao02_Aula03/Questao02_Aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAula02/questao01_Aula02/questao01_Aula02.iml" filepath="$PROJECT_DIR$/NotaAula02/questao01_Aula02/questao01_Aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAula02/questao02_Aula02/questao02_Aula02.iml" filepath="$PROJECT_DIR$/NotaAula02/questao02_Aula02/questao02_Aula02.iml" />
+    </modules>
+  </component>
+</project>
